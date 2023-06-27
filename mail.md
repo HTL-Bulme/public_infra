@@ -1,6 +1,6 @@
 # User Setup for Mail Accounts
 
-## Server Settings for Teacher Accounts
+## Teacher Accounts
 Bulme teachers can currently use either of the following two public webmail
 servers:
 
@@ -20,7 +20,7 @@ STARTTLS
 port: 587
 authentication: PLAIN
 
-## Server Settings for Student Accounts
+## Student Accounts
 Bulme students may use the following webmail server:
 
 - [mymail](https://mymail.bulme.at)
