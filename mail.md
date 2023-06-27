@@ -8,17 +8,17 @@ servers:
 - [squirrel](https://squirrel.bulme.at) (running SquirrelMail)
 
 ### IMAP
-server: lehrer.bulme.at
-SSL/TLS
-port: 993
-username: teacher shortcode
+server: `lehrer.bulme.at`  
+SSL/TLS  
+port: `993`  
+username: teacher shortcode  
 password: same as webmail
 
 ### SMTP
-server: lehrer.bulme.at
-STARTTLS
-port: 587
-authentication: PLAIN
+server: `lehrer.bulme.at`  
+STARTTLS  
+port: `587`  
+authentication: PLAIN  
 
 ## Student Accounts
 Bulme students may use the following webmail server:
@@ -27,10 +27,10 @@ Bulme students may use the following webmail server:
 
 
 ### IMAP
-server: schueler.bulme.at
-SSL/TLS
-port: 993
-username: teacher shortcode
+server: `schueler.bulme.at`  
+SSL/TLS  
+port: `993`  
+username: firstname.lastname  
 password: same as webmail
 
 ### SMTP
