@@ -1,2 +1,2 @@
-# public_infra
-Public infrastructure for HTL Bulme students 
+# Public Infrastructure
+Public infrastructure for HTL Bulme students.
