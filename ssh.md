@@ -26,8 +26,9 @@ Currently, the available programming languages (compilers) and core tools are
 | C          | `gcc` (11.3.0), `clang` (14.0.0)                     |
 | C++        | `g++` (11.3.0), `clang++` (14.0.0)                   |
 | Go         | `go` (1.18.1)                                        |
-| Python     | `python` (3.10.6), `ipython` (8.6.0), `pip` (22.3.1) |
 | JavaScript | `node` (12.22.9), `yarnpkg` (1.22.10)                |
+| Nasm       | `nasm` (2.15.05)                                     |
+| Python     | `python` (3.10.6), `ipython` (8.6.0), `pip` (22.3.1) |
 
 It is also possible to host (static) websites. To do so, place your files in
 your `~/public_html/` (`mkdir ~/public_html/` if the directory doesn't exist).
