@@ -23,10 +23,10 @@ Currently, the available programming languages (compilers) and core tools are
 
 | language   | compiler or interpreter                              |
 |------------|------------------------------------------------------|
-| C          | `gcc` (11.3.0), `clang` (14.0.0)                     |
-| C++        | `g++` (11.3.0), `clang++` (14.0.0)                   |
+| C          | `gcc` (11.4.0), `clang` (14.0.0)                     |
+| C++        | `g++` (11.4.0), `clang++` (14.0.0)                   |
 | Go         | `go` (1.18.1)                                        |
-| JavaScript | `node` (12.22.9), `yarnpkg` (1.22.10)                |
+| JavaScript | `node` (22.13.1), `npm` (10.9.2)                |
 | Nasm       | `nasm` (2.15.05)                                     |
 | Python     | `python` (3.10.6), `ipython` (8.6.0), `pip` (22.3.1) |
 
