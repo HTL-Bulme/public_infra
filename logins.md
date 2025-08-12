@@ -9,7 +9,7 @@ table provides an overview of which password to use for which service.
 | Email Address   | ??@bulme.at        | ??@ms.bulme.at     |
 | Student Webmail | mymail.bulme.at    | office.com         |
 | Teacher Webmail | webmail.bulme.at   | office.com         |
-| Desktop PCs     | Linux Clients      | Windows Clients    |
+| Computer logins | Linux Clients      | Windows Clients    |
 |                 | Linux Servers      |                    |
 | Other services  | ekb.bulme.at       | eduvidual.at       |
-|                 |                    | Wifi               |
+|                 | moodle.bulme.at    | Wifi               |
