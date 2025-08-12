@@ -12,11 +12,13 @@ table provides an overview of which password to use for which service.
 | Computer logins | Linux Clients           | Windows Clients    |
 |                 | Linux Servers           |                    |
 | Other services  | [ekb.bulme.at][3]       | eduvidual.at       |
-|                 | [moodle.bulme.at][4]    | Wifi               |
-|                 | [nextcloud.bulme.at][5] |                    |
+|                 | [gwp.bulme.at][4]       | Wifi               |
+|                 | [moodle.bulme.at][5]    |                    |
+|                 | [nextcloud.bulme.at][6] |                    |
 
 [1]: https://mymail.bulme.at
 [2]: https://webmail.bulme.at
 [3]: https://ekb.bulme.at
-[4]: https://moodle.bulme.at
-[5]: https://nextcloud.bulme.at
+[4]: https://gwp.bulme.at
+[5]: https://moodle.bulme.at
+[6]: https://nextcloud.bulme.at
