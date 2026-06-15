@@ -5,7 +5,8 @@ Bulme teachers can currently use either of the following two public webmail
 servers:
 
 - [webmail](https://webmail.bulme.at) (running Roundcube)
-- [squirrel](https://squirrel.bulme.at) (running SquirrelMail)
+
+Squirrel mail has been retired and now redirects to webmail.bulme.at.
 
 ### IMAP
 server: `lehrer.bulme.at`  
